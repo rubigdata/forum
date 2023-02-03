@@ -10,4 +10,4 @@ We can also communicatie via the issue tracker functionality. Using the issues i
 
 Lisa, Martan, Arne, Chiara, Mark, Leah and Arjen
 
-[@rubigdata/teachers-2023](https://github.com/orgs/rubigdata/teams/teachers-2023)
+[@rubigdata/teachers](https://github.com/orgs/rubigdata/teams/teachers)
